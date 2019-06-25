@@ -3,16 +3,16 @@
         {
             "carTypeId": "SDN",
             "carTypeName": "Sedan",
-            "imageUrl": "Get our quickest available ride",
-            "description": "https://raw.githubusercontent.com/maggiecadwising-melco/mockdata/master/limo-car-type/sedan.png",
+            "description": "Get our quickest available ride",
+            "imageUrl": "https://raw.githubusercontent.com/maggiecadwising-melco/mockdata/master/limo-car-type/sedan.png",
             "seatCapacity": 4,
             "luggageCapacity": 2
         },
         {
             "carTypeId": "MPV",
             "carTypeName": "MPV",
-            "imageUrl": "Spacious ride for groups",
-            "description": "https://raw.githubusercontent.com/maggiecadwising-melco/mockdata/master/limo-car-type/MPV.png",
+            "description": "Spacious ride for groups",
+            "imageUrl": "https://raw.githubusercontent.com/maggiecadwising-melco/mockdata/master/limo-car-type/MPV.png",
             "seatCapacity": 6,
             "luggageCapacity": 4
         }
