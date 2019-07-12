@@ -4,43 +4,43 @@
     "records": [
         {
             "bookingId": "949826",
-            "status": "Unallocated",
+            "status": "Confirmed",
             "bookingReference": "LMPV1DM95R8O",
             "dropoffAddress": "Arirang Korean Restaurant",
             "pickupTime": "2019-07-11T19:45:00.000Z",
             "requestTime": "2019-07-11T10:36:32.666Z",
-            "carImageUrl": ""
+            "carImageUrl": "https://raw.githubusercontent.com/maggiecadwising-melco/mockdata/master/image%202.1.png"
         },
         {
             "bookingId": "944133",
-            "status": "Unallocated",
+            "status": "DOW",
             "bookingReference": "LMSB3DY1SIMR",
             "dropoffAddress": "Drop off address for MACAU COD",
             "pickupTime": "2019-07-28T15:14:01.000Z",
             "requestTime": "2019-07-07T08:59:10.740Z",
-            "carImageUrl": ""
+            "carImageUrl": "https://raw.githubusercontent.com/maggiecadwising-melco/mockdata/master/image%202.1.png"
         },
         {
             "bookingId": "949300",
-            "status": "Unallocated",
+            "status": "DOP",
             "bookingReference": "LM1ONWHQJ6O8",
             "dropoffAddress": "Altira VIP",
             "pickupTime": "2019-07-11T12:30:00.000Z",
             "requestTime": "2019-07-11T03:23:13.645Z",
-            "carImageUrl": ""
+            "carImageUrl": "https://raw.githubusercontent.com/maggiecadwising-melco/mockdata/master/image%202.1.png"
         },
         {
             "bookingId": "947895",
-            "status": "Unallocated",
+            "status": "Done",
             "bookingReference": "LM5L2A66SMAF",
             "dropoffAddress": "Altira Lobby",
             "pickupTime": "2019-07-10T12:00:00.000Z",
             "requestTime": "2019-07-10T02:52:54.240Z",
-            "carImageUrl": ""
+            "carImageUrl": "https://raw.githubusercontent.com/maggiecadwising-melco/mockdata/master/image%202.1.png"
         },
         {
             "bookingId": "949357",
-            "status": "Unallocated",
+            "status": "Cancelled",
             "bookingReference": "LMTC03XICHX9",
             "dropoffAddress": "Drop off address for MACAU COD",
             "pickupTime": "2019-07-11T12:21:19.000Z",
