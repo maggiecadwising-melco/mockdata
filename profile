@@ -7,7 +7,7 @@
         "membershipPoints": 52650,
         "phone": {
             "areaCode": "1",
-            "phoneNo": "95556666"
+            "phoneNo": "025550194"
         },
         "isInvitationTier": true,
         "cityId": "MACAU",
