@@ -6,7 +6,7 @@
         "tier": "1DRA",
         "membershipPoints": 52650,
         "phone": {
-            "areaCode": "852",
+            "areaCode": "1",
             "phoneNo": "95556666"
         },
         "isInvitationTier": true,
