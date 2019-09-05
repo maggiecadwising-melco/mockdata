@@ -1,0 +1,1628 @@
+{
+    "statusMessage": "SUCCESS",
+    "startDate": "2019-09-04",
+    "endDate": "2019-09-06",
+    "roomsCount": 1,
+    "adultCount": 2,
+    "childCount": 0,
+    "hotels": [
+        {
+            "id": "MOR",
+            "city": "Macau",
+            "cityId": "MACAU",
+            "propertyId": "COD",
+            "propertyName": "City of Dreams",
+            "name": "Morpheus",
+            "images": [
+                "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10dbf115e01morpheus1.jpg",
+                "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10dbf074a67morpheus2.jpg",
+                "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10dbf006a36morpheus3.jpg",
+                "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10dbef9f982morpheus4.jpg"
+            ],
+            "shortDescription": "Morpheus is like no other property in Macau, or the world. Book your stay with us to experience this singular vision of the future for yourself. ",
+            "description": "Morpheus is like no other property in Macau, or the world. <br/><br/>Step into our high-speed panoramic lifts to discover futuristic living spaces, innovatively designed to transcend your every need. Explore our one-of-a-kind restaurant and lounge collection, featuring world-class chefs like Alain Ducasse and Pierre Hermé. Swim under the stars at the rooftop sky pool. <br/><br/>At Morpheus, ultra-luxury and innovation combine in the form of seven hundred and seventy two futuristic guest rooms and suites. Each of our one hundred and eighty one suites has been outfitted with premium furnishings from the world’s leading designers and cutting-edge technology designed. For an experience of ultimate transcendence, Morpheus’s nine sumptuous villas enjoy personal 24/7 butler service; six connect to private salons, while three offering private interior pools.",
+            "address": "Morpheus at City of Dreams, Estrada do Istmo, Cotai, Macau",
+            "gps": {
+                "longitude": 113.56647,
+                "latitude": 22.149982
+            },
+            "phone": "+85388688888",
+            "email": "rsvnmorpheus@cod-macau.com",
+            "website": "www.cityofdreamsmacau.com/en/stay/morpheus/index.html",
+            "fax": "",
+            "tags": [
+                "Zaha Hadid Architect",
+                " Imaginative experience"
+            ],
+            "priority": 1,
+            "propertyLogo": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c472cb439796COD.png",
+            "hotelLogo": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c123c6fcbed5Morpheus.png",
+            "facilities": [
+                {
+                    "name": "Restaurant",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f74c37819-restaraunts.png",
+                    "priority": 2
+                },
+                {
+                    "name": "Valet parking",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f680d3c15-valetparking.png",
+                    "priority": 5
+                },
+                {
+                    "name": "Free self parking",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f62005813-freeparking.png",
+                    "priority": 6
+                },
+                {
+                    "name": "Free shuttle bus",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f6b0a1b16-shuttlebus.png",
+                    "priority": 7
+                },
+                {
+                    "name": "Casino",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f3e9ed202-casino.png",
+                    "priority": 8
+                },
+                {
+                    "name": "Bar/lounge",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f583cd910-bar.png",
+                    "priority": 9
+                },
+                {
+                    "name": "Spa",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f5b40b811-spa.png",
+                    "priority": 11
+                },
+                {
+                    "name": "Fitness center",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f426eac03-finesscenter.png",
+                    "priority": 15
+                },
+                {
+                    "name": "Business center",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f7dc5ac22-businesscenter.png",
+                    "priority": 16
+                }
+            ],
+            "roomTypes": [],
+            "mapId": "MOR",
+            "bookingId": "COMMO",
+            "minRatePlan": null,
+            "maxRatePlan": null
+        },
+        {
+            "id": "CTC",
+            "city": "Macau",
+            "cityId": "MACAU",
+            "propertyId": "COD",
+            "propertyName": "City of Dreams",
+            "name": "Nüwa",
+            "images": [
+                "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10da9eb98e9nuwa1.jpg",
+                "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10da9e55af1nuwa2.jpg",
+                "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10da9de4a33nuwa3.jpg"
+            ],
+            "shortDescription": "A New World of Luxury where Comfort and Style Intertwine.",
+            "description": "Inspired by the eponymous heroine from Chinese mythology, Nüwa is a homage to Asia’s rich cultural inheritance; a place where the past is reimagined, and luxury redefined.<br/><br/>Traditional aesthetics and contemporary sensibility intertwine to create a world of comfort. Handcrafted details are evident in every corner, personalized hospitality awaits at every turn; and every stay is an experience of impeccable standard.<br/><br/>Nüwa has approximate 300 guest rooms including 33 luxurious villas.",
+            "address": "Nüwa at City of Dreams, Estrada do Istmo, Cotai, Macau",
+            "gps": {
+                "longitude": 113.5652,
+                "latitude": 22.1499
+            },
+            "phone": "+85388686868",
+            "email": "contactcentre@melco-resorts.com",
+            "website": "www.cityofdreamsmacau.com/en/stay/nuwa/index.html",
+            "fax": "",
+            "tags": [
+                "Forbes 5-Star award",
+                " Place where the past is reimagined",
+                " World of comfort"
+            ],
+            "priority": 2,
+            "propertyLogo": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c472cb439796COD.png",
+            "hotelLogo": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c123c701a731Nuwa.png",
+            "facilities": [
+                {
+                    "name": "Limousine service",
+                    "description": "EN Limousine drivers pick up clients and drive them to events and destinations such as weddings, meetings, celebrations, hotels and transportation centers. They also help clients load and unload luggage and carry these items into hotels and airports.",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f3b98c101-parking.png",
+                    "priority": 1
+                },
+                {
+                    "name": "Restaurant",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f74c37819-restaraunts.png",
+                    "priority": 2
+                },
+                {
+                    "name": "Free self parking",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f62005813-freeparking.png",
+                    "priority": 6
+                },
+                {
+                    "name": "Free shuttle bus",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f6b0a1b16-shuttlebus.png",
+                    "priority": 7
+                },
+                {
+                    "name": "Casino",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f3e9ed202-casino.png",
+                    "priority": 8
+                },
+                {
+                    "name": "Bar",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f583cd910-bar.png",
+                    "priority": 10
+                },
+                {
+                    "name": "Spa",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f5b40b811-spa.png",
+                    "priority": 11
+                },
+                {
+                    "name": "Pool",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f5e43ef12-pool.png",
+                    "priority": 13
+                },
+                {
+                    "name": "Fitness center",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f426eac03-finesscenter.png",
+                    "priority": 15
+                },
+                {
+                    "name": "Dry/cleaning laundry service",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f4875b705-laundry.png",
+                    "priority": 17
+                }
+            ],
+            "roomTypes": [
+                {
+                    "id": "PK",
+                    "hotelId": "CTC",
+                    "name": "Premier Room",
+                    "images": [
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5d1a215f29e0anuwa-premier-king-master.jpeg"
+                    ],
+                    "shortDescription": "Invitingly spacious with spectacular floor-to-ceiling views of Cotai and Taipa, each contemporary styled room offers 60 sqm of pure indulgence.",
+                    "description": "Invitingly spacious with spectacular floor-to-ceiling views of Cotai and Taipa, each contemporary styled Premier Room offers 60sqm of pure indulgence. Relax in complete luxury on the Simmons king mattress dressed in 600 thread-count cotton linen, accompanied with a goose-down duvet and a full selection of pillows to suit your preference. Stimulate your senses with our 42” LCD HDTV and multifunctional iPod docking station. Your private sanctuary also features a walk-in wardrobe and a spacious marble bathroom with an inviting deep-soaker bathtub, separate rain-shower and built-in LCD television.",
+                    "priority": 2,
+                    "specialRequests": [
+                        {
+                            "id": "AWAY",
+                            "name": "Far away from lift",
+                            "engName": "Far away from lift",
+                            "priority": 4,
+                            "exclusivityGroup": "AWAYFROMLIFT"
+                        },
+                        {
+                            "id": "HIGH",
+                            "name": "High floor room",
+                            "engName": "High floor room",
+                            "priority": 3,
+                            "exclusivityGroup": "HIGHFLOOR"
+                        },
+                        {
+                            "id": "SMOK",
+                            "name": "Smoking",
+                            "engName": "Smoking",
+                            "priority": 1,
+                            "exclusivityGroup": "SMOKING"
+                        },
+                        {
+                            "id": "NONSM",
+                            "name": "Non-smoking",
+                            "engName": "Non-smoking",
+                            "priority": 2,
+                            "exclusivityGroup": "SMOKING"
+                        },
+                        {
+                            "id": "DIS",
+                            "name": "Accessibility features",
+                            "engName": "Accessibility features",
+                            "priority": 5,
+                            "exclusivityGroup": "ACCESSIBILITY"
+                        }
+                    ],
+                    "ratePlans": [
+                        {
+                            "id": "WECRM",
+                            "description": "Best Available Rate",
+                            "currencyCode": "HKD",
+                            "price": 40,
+                            "priceBeforeTax": 34.78,
+                            "selectedCurrencyCode": "MOP",
+                            "priceInSelectedCurrency": 41.21,
+                            "priceInSelectedCurrencyBeforeTax": 35.83,
+                            "terms": "<ul style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Any requests for cancellation or amendment must be made 1 day prior to arrival date by 6pm, otherwise, first night room rental plus prevailing taxes will be charged.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Surcharge of triple occupancy applies. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services etc.</li></ul>",
+                            "termsPlainText": [
+                                "Any requests for cancellation or amendment must be made 1 day prior to arrival date by 6pm, otherwise, first night room rental plus prevailing taxes will be charged.",
+                                "Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).",
+                                "Surcharge of triple occupancy applies. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services etc."
+                            ],
+                            "rateInclusion": [
+                                "Complimentary Wi-Fi access"
+                            ]
+                        }
+                    ],
+                    "availabilityStatus": "AVAILABLE",
+                    "available": true,
+                    "roomTypeId": "PK"
+                },
+                {
+                    "id": "PQ",
+                    "hotelId": "CTC",
+                    "name": "Premier Queen Room",
+                    "images": [
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10e6e736bc1nuwa_premier-queen-room1.jpg"
+                    ],
+                    "shortDescription": "Invitingly spacious with spectacular floor-to-ceiling views of Cotai and Taipa, each contemporary styled Premier Room offers 60sqm of pure indulgence. ",
+                    "description": "Invitingly spacious with spectacular floor-to-ceiling views of Cotai and Taipa, each contemporary styled Premier Room offers 60sqm of pure indulgence. Relax in complete luxury on the Simmons king mattress dressed in 600 thread-count cotton linen, accompanied with a goose-down duvet and a full selection of pillows to suit your preference. Stimulate your senses with our 42” LCD HDTV and multifunctional iPod docking station. Your private sanctuary also features a walk-in wardrobe and a spacious marble bathroom with an inviting deep-soaker bathtub, separate rain-shower and built-in LCD television.",
+                    "priority": 3,
+                    "specialRequests": [
+                        {
+                            "id": "AWAY",
+                            "name": "Far away from lift",
+                            "engName": "Far away from lift",
+                            "priority": 4,
+                            "exclusivityGroup": "AWAYFROMLIFT"
+                        },
+                        {
+                            "id": "HIGH",
+                            "name": "High floor room",
+                            "engName": "High floor room",
+                            "priority": 3,
+                            "exclusivityGroup": "HIGHFLOOR"
+                        },
+                        {
+                            "id": "SMOK",
+                            "name": "Smoking",
+                            "engName": "Smoking",
+                            "priority": 1,
+                            "exclusivityGroup": "SMOKING"
+                        },
+                        {
+                            "id": "NONSM",
+                            "name": "Non-smoking",
+                            "engName": "Non-smoking",
+                            "priority": 2,
+                            "exclusivityGroup": "SMOKING"
+                        }
+                    ],
+                    "ratePlans": [
+                        {
+                            "id": "WECRM",
+                            "description": "Best Available Rate",
+                            "currencyCode": "HKD",
+                            "price": 40,
+                            "priceBeforeTax": 34.78,
+                            "selectedCurrencyCode": "MOP",
+                            "priceInSelectedCurrency": 41.21,
+                            "priceInSelectedCurrencyBeforeTax": 35.83,
+                            "terms": "<ul style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Any requests for cancellation or amendment must be made 1 day prior to arrival date by 6pm, otherwise, first night room rental plus prevailing taxes will be charged.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Surcharge of triple occupancy applies. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services etc.</li></ul>",
+                            "termsPlainText": [
+                                "Any requests for cancellation or amendment must be made 1 day prior to arrival date by 6pm, otherwise, first night room rental plus prevailing taxes will be charged.",
+                                "Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).",
+                                "Surcharge of triple occupancy applies. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services etc."
+                            ],
+                            "rateInclusion": [
+                                "Complimentary Wi-Fi access"
+                            ]
+                        }
+                    ],
+                    "availabilityStatus": "AVAILABLE",
+                    "available": true,
+                    "roomTypeId": "PQ"
+                },
+                {
+                    "id": "DS",
+                    "hotelId": "CTC",
+                    "name": "Deluxe Suite",
+                    "images": [
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5d1a2136bbb49nuwa-deluxe-suite.jpeg"
+                    ],
+                    "shortDescription": "Each suite offers 82sqm of unparalleled comfort and luxury, with a separate lounge area and bedroom, boasting unobstructed, panoramic views of Cotai.",
+                    "description": "Accentuated with luxurious and contemporary touches, the Deluxe Suites at Nüwa are tailored to satisfy our most discerning guests. Each suite offers 82sqm of unparalleled comfort and luxury, with a separate lounge area and bedroom, boasting unobstructed, panoramic views of Cotai. Relax on the Simmons king mattress dressed in 300 thread-count Egyptian cotton linen, accompanied with a goose-down duvet and a full selection of pillows to suit your preference. Stimulate your senses with our 42” LCD HDTV and multifunctional iPod docking station. Your private sanctuary also features a walk-in wardrobe and a spacious marble bathroom with an inviting deep-soaker bathtub, separate rain-shower and built-in LCD television. Every Deluxe Suite is equipped with a 22” flat screen computer station so you can stay connected.",
+                    "priority": 4,
+                    "specialRequests": [
+                        {
+                            "id": "AWAY",
+                            "name": "Far away from lift",
+                            "engName": "Far away from lift",
+                            "priority": 4,
+                            "exclusivityGroup": "AWAYFROMLIFT"
+                        },
+                        {
+                            "id": "HIGH",
+                            "name": "High floor room",
+                            "engName": "High floor room",
+                            "priority": 3,
+                            "exclusivityGroup": "HIGHFLOOR"
+                        },
+                        {
+                            "id": "SMOK",
+                            "name": "Smoking",
+                            "engName": "Smoking",
+                            "priority": 1,
+                            "exclusivityGroup": "SMOKING"
+                        },
+                        {
+                            "id": "NONSM",
+                            "name": "Non-smoking",
+                            "engName": "Non-smoking",
+                            "priority": 2,
+                            "exclusivityGroup": "SMOKING"
+                        }
+                    ],
+                    "ratePlans": [
+                        {
+                            "id": "WECRM",
+                            "description": "Best Available Rate",
+                            "currencyCode": "HKD",
+                            "price": 10,
+                            "priceBeforeTax": 8.7,
+                            "selectedCurrencyCode": "MOP",
+                            "priceInSelectedCurrency": 10.3,
+                            "priceInSelectedCurrencyBeforeTax": 8.96,
+                            "terms": "<ul style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Any requests for cancellation or amendment must be made 1 day prior to arrival date by 6pm, otherwise, first night room rental plus prevailing taxes will be charged.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Surcharge of triple occupancy applies. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services etc.</li></ul>",
+                            "termsPlainText": [
+                                "Any requests for cancellation or amendment must be made 1 day prior to arrival date by 6pm, otherwise, first night room rental plus prevailing taxes will be charged.",
+                                "Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).",
+                                "Surcharge of triple occupancy applies. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services etc."
+                            ],
+                            "rateInclusion": [
+                                "Complimentary Wi-Fi access"
+                            ]
+                        }
+                    ],
+                    "availabilityStatus": "AVAILABLE",
+                    "available": true,
+                    "roomTypeId": "DS"
+                },
+                {
+                    "id": "PS",
+                    "hotelId": "CTC",
+                    "name": "Premier Suite",
+                    "images": [
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5d1a2116bed89nuwa-premier-suite-master.jpeg"
+                    ],
+                    "shortDescription": "The epitome of contemporary luxury and opulence with unrivalled views of Cotai or the sea, the Premier Suites at Nüwa exude sophistication and elegance.",
+                    "description": "The epitome of contemporary luxury and opulence with unrivalled views of Cotai or the sea, the Premier Suites at Nüwa exude sophistication and elegance. Relax on the Simmons king mattress dressed in 300 thread-count Egyptian cotton linen, accompanied with a goose-down duvet and a full selection of pillows to suit your preference. Stimulate your senses with our 42” LCD HDTV and multifunctional iPod docking station. Your private sanctuary also features a walk-in wardrobe and a spacious marble bathroom with an inviting deep-soaker bathtub, separate rain-shower and built-in LCD television. Every Deluxe Suite is equipped with a 22” flat screen computer station so you can stay connected.",
+                    "priority": 5,
+                    "specialRequests": [
+                        {
+                            "id": "AWAY",
+                            "name": "Far away from lift",
+                            "engName": "Far away from lift",
+                            "priority": 4,
+                            "exclusivityGroup": "AWAYFROMLIFT"
+                        },
+                        {
+                            "id": "HIGH",
+                            "name": "High floor room",
+                            "engName": "High floor room",
+                            "priority": 3,
+                            "exclusivityGroup": "HIGHFLOOR"
+                        },
+                        {
+                            "id": "SMOK",
+                            "name": "Smoking",
+                            "engName": "Smoking",
+                            "priority": 1,
+                            "exclusivityGroup": "SMOKING"
+                        },
+                        {
+                            "id": "NONSM",
+                            "name": "Non-smoking",
+                            "engName": "Non-smoking",
+                            "priority": 2,
+                            "exclusivityGroup": "SMOKING"
+                        }
+                    ],
+                    "ratePlans": [
+                        {
+                            "id": "WECRM",
+                            "description": "Best Available Rate",
+                            "currencyCode": "HKD",
+                            "price": 10,
+                            "priceBeforeTax": 8.7,
+                            "selectedCurrencyCode": "MOP",
+                            "priceInSelectedCurrency": 10.3,
+                            "priceInSelectedCurrencyBeforeTax": 8.96,
+                            "terms": "<ul style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Any requests for cancellation or amendment must be made 1 day prior to arrival date by 6pm, otherwise, first night room rental plus prevailing taxes will be charged.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Surcharge of triple occupancy applies. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services etc.</li></ul>",
+                            "termsPlainText": [
+                                "Any requests for cancellation or amendment must be made 1 day prior to arrival date by 6pm, otherwise, first night room rental plus prevailing taxes will be charged.",
+                                "Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).",
+                                "Surcharge of triple occupancy applies. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services etc."
+                            ],
+                            "rateInclusion": [
+                                "Complimentary Wi-Fi access"
+                            ]
+                        }
+                    ],
+                    "availabilityStatus": "AVAILABLE",
+                    "available": true,
+                    "roomTypeId": "PS"
+                }
+            ],
+            "mapId": "CTC",
+            "bookingId": "CNOMO",
+            "minRatePlan": {
+                "id": "WECRM",
+                "description": "Best Available Rate",
+                "currencyCode": "HKD",
+                "price": 10,
+                "priceBeforeTax": 8.7,
+                "selectedCurrencyCode": "MOP",
+                "priceInSelectedCurrency": 10.3,
+                "priceInSelectedCurrencyBeforeTax": 8.96,
+                "terms": "<ul style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Any requests for cancellation or amendment must be made 1 day prior to arrival date by 6pm, otherwise, first night room rental plus prevailing taxes will be charged.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Surcharge of triple occupancy applies. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services etc.</li></ul>",
+                "termsPlainText": [
+                    "Any requests for cancellation or amendment must be made 1 day prior to arrival date by 6pm, otherwise, first night room rental plus prevailing taxes will be charged.",
+                    "Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).",
+                    "Surcharge of triple occupancy applies. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services etc."
+                ],
+                "rateInclusion": [
+                    "Complimentary Wi-Fi access"
+                ]
+            },
+            "maxRatePlan": {
+                "id": "WECRM",
+                "description": "Best Available Rate",
+                "currencyCode": "HKD",
+                "price": 40,
+                "priceBeforeTax": 34.78,
+                "selectedCurrencyCode": "MOP",
+                "priceInSelectedCurrency": 41.21,
+                "priceInSelectedCurrencyBeforeTax": 35.83,
+                "terms": "<ul style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Any requests for cancellation or amendment must be made 1 day prior to arrival date by 6pm, otherwise, first night room rental plus prevailing taxes will be charged.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Surcharge of triple occupancy applies. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services etc.</li></ul>",
+                "termsPlainText": [
+                    "Any requests for cancellation or amendment must be made 1 day prior to arrival date by 6pm, otherwise, first night room rental plus prevailing taxes will be charged.",
+                    "Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).",
+                    "Surcharge of triple occupancy applies. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services etc."
+                ],
+                "rateInclusion": [
+                    "Complimentary Wi-Fi access"
+                ]
+            }
+        },
+        {
+            "id": "HRH",
+            "city": "Macau",
+            "cityId": "MACAU",
+            "propertyId": "COD",
+            "propertyName": "City of Dreams",
+            "name": "The Countdown Hotel",
+            "images": [
+                "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10d9f48ba91countdown1.jpg",
+                "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10d9f3b5615countdown2.jpg",
+                "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10d9f31f5a2countdown3.jpg"
+            ],
+            "shortDescription": "Stylish and unconventional, The Countdown hotel encapsulates everything you love about City of Dreams.",
+            "description": "Stylish and unconventional, The Countdown hotel encapsulates everything you love about City of Dreams, while we count down to the exciting new experiences the entertainment resort will bring in 2018.<br/></br/> Between now and then, there is always time to enjoy life to the fullest. Drink in the stunning views of Cotai, the beating heart of Macau, as you relax in any of our 326 cozy, well-appointed rooms; or get pampered in our spa, then chill in our pool and Jacuzzi. No matter where you're from or where you're heading – rest assured that time is on your side at The Countdown. ",
+            "address": "The Countdown Hotel at City of Dreams, Estrada do Is tmo, Cotai, Macau",
+            "gps": {
+                "longitude": 113.566,
+                "latitude": 22.1485
+            },
+            "phone": "+85388683333",
+            "email": "contactcentre@melco-resorts.com",
+            "website": "www.cityofdreamsmacau.com/en/stay/the-countdown-hotel/index.html",
+            "fax": "",
+            "tags": [
+                "One of best sellers in Macau",
+                " Cozy and warm-lit",
+                " Guitar-shaped pool"
+            ],
+            "priority": 3,
+            "propertyLogo": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c472cb439796COD.png",
+            "hotelLogo": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c123c70ea96eThe-Countdown-Hotel.png",
+            "facilities": [
+                {
+                    "name": "Restaurant",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f74c37819-restaraunts.png",
+                    "priority": 2
+                },
+                {
+                    "name": "Valet parking",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f680d3c15-valetparking.png",
+                    "priority": 5
+                },
+                {
+                    "name": "Free self parking",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f62005813-freeparking.png",
+                    "priority": 6
+                },
+                {
+                    "name": "Free shuttle bus",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f6b0a1b16-shuttlebus.png",
+                    "priority": 7
+                },
+                {
+                    "name": "Casino",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f3e9ed202-casino.png",
+                    "priority": 8
+                },
+                {
+                    "name": "Bar",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f583cd910-bar.png",
+                    "priority": 10
+                },
+                {
+                    "name": "Spa",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f5b40b811-spa.png",
+                    "priority": 11
+                },
+                {
+                    "name": "Pool",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f5e43ef12-pool.png",
+                    "priority": 13
+                },
+                {
+                    "name": "Fitness center",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f426eac03-finesscenter.png",
+                    "priority": 15
+                },
+                {
+                    "name": "Express check-out",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f523e9908-expresscheckout.png",
+                    "priority": 18
+                }
+            ],
+            "roomTypes": [
+                {
+                    "id": "CS",
+                    "hotelId": "HRH",
+                    "name": "Corner Suite",
+                    "images": [
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10e04b01c91countdown-hotel_corner-suite1.jpg"
+                    ],
+                    "shortDescription": "Treat yourself to one of our chic and expansive suites designed for discerning travelers.",
+                    "description": "Treat yourself to one of our chic and expansive suites designed for discerning travelers. Boasting breathtaking views of Cotai in all its dazzling glory, these innovative suites feature stylish furniture, halo illuminated lighting, ergonomic work stations, greenroom inspired mini-bars, your personal mixologist station and fine linens and plush bedding; while our fashionably styled bathroom features a bathtub, invigorating rain showers and a full range of bathroom amenities.<br/>\nTechnology pulses through the rooms with an integrated video and sound system including 42” flat-screen HDTVs. Plug in or chill out, you have everything you need to connect including complimentary high-speed internet access, satellite television channels, video on-demand and convenient plug-and-play capabilities to connect your iPod, video camera or laptop to the media hub.",
+                    "priority": 3,
+                    "specialRequests": [
+                        {
+                            "id": "AWAY",
+                            "name": "Far away from lift",
+                            "engName": "Far away from lift",
+                            "priority": 4,
+                            "exclusivityGroup": "AWAYFROMLIFT"
+                        },
+                        {
+                            "id": "HIGH",
+                            "name": "High floor room",
+                            "engName": "High floor room",
+                            "priority": 3,
+                            "exclusivityGroup": "HIGHFLOOR"
+                        },
+                        {
+                            "id": "SMOK",
+                            "name": "Smoking",
+                            "engName": "Smoking",
+                            "priority": 1,
+                            "exclusivityGroup": "SMOKING"
+                        },
+                        {
+                            "id": "NONSM",
+                            "name": "Non-smoking",
+                            "engName": "Non-smoking",
+                            "priority": 2,
+                            "exclusivityGroup": "SMOKING"
+                        }
+                    ],
+                    "ratePlans": [
+                        {
+                            "id": "WECRM",
+                            "description": "Best Available Rate",
+                            "currencyCode": "HKD",
+                            "price": 2,
+                            "priceBeforeTax": 1.74,
+                            "selectedCurrencyCode": "MOP",
+                            "priceInSelectedCurrency": 2.06,
+                            "priceInSelectedCurrencyBeforeTax": 1.79,
+                            "terms": "<ul style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Any requests for cancellation or amendment must be made 1 day prior to arrival date by 6pm, otherwise, first night room rental plus prevailing taxes will be charged.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Rate above is based on single and double occupancy. Additional guest will be subject to additional charges.</li></ul>",
+                            "termsPlainText": [
+                                "Any requests for cancellation or amendment must be made 1 day prior to arrival date by 6pm, otherwise, first night room rental plus prevailing taxes will be charged.",
+                                "Rate above is based on single and double occupancy. Additional guest will be subject to additional charges."
+                            ],
+                            "rateInclusion": [
+                                "HK$100 Stay & Play Voucher",
+                                "Complimentary Wi-Fi access"
+                            ]
+                        }
+                    ],
+                    "availabilityStatus": "AVAILABLE",
+                    "available": true,
+                    "roomTypeId": "CS"
+                },
+                {
+                    "id": "SK",
+                    "hotelId": "HRH",
+                    "name": "Standard King Room",
+                    "images": [
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5d1a217f655e5tcd-standart-king.jpeg",
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5d1b475683496tcd-MELCOSTANDARDKING.jpeg"
+                    ],
+                    "shortDescription": "With spectacular views of Cotai, the contemporary styled rooms in king bed configuration feature fine linens and plush bedding.",
+                    "description": "With spectacular views of Cotai, the contemporary styled rooms in king bed configuration feature fine linens and plush bedding; while the fashionable bathroom boasts a bathtub with shower complete with a full range of bathroom amenities. <br/>\nSit back and relax as technology pulses through the room with a multifunction iPod docking station. Plug in or chill out, you have everything you need to connect, including complimentary high-speed internet access, satellite television channels and video on-demand.",
+                    "priority": 1,
+                    "specialRequests": [
+                        {
+                            "id": "AWAY",
+                            "name": "Far away from lift",
+                            "engName": "Far away from lift",
+                            "priority": 4,
+                            "exclusivityGroup": "AWAYFROMLIFT"
+                        },
+                        {
+                            "id": "HIGH",
+                            "name": "High floor room",
+                            "engName": "High floor room",
+                            "priority": 3,
+                            "exclusivityGroup": "HIGHFLOOR"
+                        },
+                        {
+                            "id": "SMOK",
+                            "name": "Smoking",
+                            "engName": "Smoking",
+                            "priority": 1,
+                            "exclusivityGroup": "SMOKING"
+                        },
+                        {
+                            "id": "NONSM",
+                            "name": "Non-smoking",
+                            "engName": "Non-smoking",
+                            "priority": 2,
+                            "exclusivityGroup": "SMOKING"
+                        },
+                        {
+                            "id": "DIS",
+                            "name": "Accessibility features",
+                            "engName": "Accessibility features",
+                            "priority": 5,
+                            "exclusivityGroup": "ACCESSIBILITY"
+                        }
+                    ],
+                    "ratePlans": [
+                        {
+                            "id": "WECRM",
+                            "description": "Best Available Rate",
+                            "currencyCode": "HKD",
+                            "price": 2,
+                            "priceBeforeTax": 1.74,
+                            "selectedCurrencyCode": "MOP",
+                            "priceInSelectedCurrency": 2.06,
+                            "priceInSelectedCurrencyBeforeTax": 1.79,
+                            "terms": "<ul style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Any requests for cancellation or amendment must be made 1 day prior to arrival date by 6pm, otherwise, first night room rental plus prevailing taxes will be charged.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Surcharge of triple occupancy applies. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services etc.</li></ul>",
+                            "termsPlainText": [
+                                "Any requests for cancellation or amendment must be made 1 day prior to arrival date by 6pm, otherwise, first night room rental plus prevailing taxes will be charged.",
+                                "Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).",
+                                "Surcharge of triple occupancy applies. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services etc."
+                            ],
+                            "rateInclusion": [
+                                "Complimentary Wi-Fi access"
+                            ]
+                        }
+                    ],
+                    "availabilityStatus": "AVAILABLE",
+                    "available": true,
+                    "roomTypeId": "SK"
+                },
+                {
+                    "id": "SQ",
+                    "hotelId": "HRH",
+                    "name": "Double Queen Room",
+                    "images": [
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5d1a21a10f8f4tcd-standard-queen.jpeg"
+                    ],
+                    "shortDescription": "With spectacular views of Cotai, the contemporary styled rooms in queen bed configuration feature fine linens and plush bedding.",
+                    "description": "With spectacular views of Cotai, the contemporary styled rooms in double oversized queen bed configuration feature fine linens and plush bedding; while the fashionable bathroom boasts a bathtub with shower complete with a full range of bathroom amenities.<br/>\nSit back and relax as technology pulses through the room with a multifunction iPod docking station. Plug in or chill out, you have everything you need to connect, including complimentary high-speed internet access, satellite television channels and video on-demand.",
+                    "priority": 2,
+                    "specialRequests": [
+                        {
+                            "id": "AWAY",
+                            "name": "Far away from lift",
+                            "engName": "Far away from lift",
+                            "priority": 4,
+                            "exclusivityGroup": "AWAYFROMLIFT"
+                        },
+                        {
+                            "id": "HIGH",
+                            "name": "High floor room",
+                            "engName": "High floor room",
+                            "priority": 3,
+                            "exclusivityGroup": "HIGHFLOOR"
+                        },
+                        {
+                            "id": "SMOK",
+                            "name": "Smoking",
+                            "engName": "Smoking",
+                            "priority": 1,
+                            "exclusivityGroup": "SMOKING"
+                        },
+                        {
+                            "id": "NONSM",
+                            "name": "Non-smoking",
+                            "engName": "Non-smoking",
+                            "priority": 2,
+                            "exclusivityGroup": "SMOKING"
+                        }
+                    ],
+                    "ratePlans": [
+                        {
+                            "id": "WECRM",
+                            "description": "Best Available Rate",
+                            "currencyCode": "HKD",
+                            "price": 2,
+                            "priceBeforeTax": 1.74,
+                            "selectedCurrencyCode": "MOP",
+                            "priceInSelectedCurrency": 2.06,
+                            "priceInSelectedCurrencyBeforeTax": 1.79,
+                            "terms": "<ul style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Any requests for cancellation or amendment must be made 1 day prior to arrival date by 6pm, otherwise, first night room rental plus prevailing taxes will be charged.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Surcharge of triple occupancy applies. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services etc.</li></ul>",
+                            "termsPlainText": [
+                                "Any requests for cancellation or amendment must be made 1 day prior to arrival date by 6pm, otherwise, first night room rental plus prevailing taxes will be charged.",
+                                "Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).",
+                                "Surcharge of triple occupancy applies. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services etc."
+                            ],
+                            "rateInclusion": [
+                                "Complimentary Wi-Fi access"
+                            ]
+                        }
+                    ],
+                    "availabilityStatus": "AVAILABLE",
+                    "available": true,
+                    "roomTypeId": "SQ"
+                }
+            ],
+            "mapId": "HRH",
+            "bookingId": "COCMO",
+            "minRatePlan": {
+                "id": "WECRM",
+                "description": "Best Available Rate",
+                "currencyCode": "HKD",
+                "price": 2,
+                "priceBeforeTax": 1.74,
+                "selectedCurrencyCode": "MOP",
+                "priceInSelectedCurrency": 2.06,
+                "priceInSelectedCurrencyBeforeTax": 1.79,
+                "terms": "<ul style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Any requests for cancellation or amendment must be made 1 day prior to arrival date by 6pm, otherwise, first night room rental plus prevailing taxes will be charged.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Rate above is based on single and double occupancy. Additional guest will be subject to additional charges.</li></ul>",
+                "termsPlainText": [
+                    "Any requests for cancellation or amendment must be made 1 day prior to arrival date by 6pm, otherwise, first night room rental plus prevailing taxes will be charged.",
+                    "Rate above is based on single and double occupancy. Additional guest will be subject to additional charges."
+                ],
+                "rateInclusion": [
+                    "HK$100 Stay & Play Voucher",
+                    "Complimentary Wi-Fi access"
+                ]
+            },
+            "maxRatePlan": {
+                "id": "WECRM",
+                "description": "Best Available Rate",
+                "currencyCode": "HKD",
+                "price": 2,
+                "priceBeforeTax": 1.74,
+                "selectedCurrencyCode": "MOP",
+                "priceInSelectedCurrency": 2.06,
+                "priceInSelectedCurrencyBeforeTax": 1.79,
+                "terms": "<ul style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Any requests for cancellation or amendment must be made 1 day prior to arrival date by 6pm, otherwise, first night room rental plus prevailing taxes will be charged.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Rate above is based on single and double occupancy. Additional guest will be subject to additional charges.</li></ul>",
+                "termsPlainText": [
+                    "Any requests for cancellation or amendment must be made 1 day prior to arrival date by 6pm, otherwise, first night room rental plus prevailing taxes will be charged.",
+                    "Rate above is based on single and double occupancy. Additional guest will be subject to additional charges."
+                ],
+                "rateInclusion": [
+                    "HK$100 Stay & Play Voucher",
+                    "Complimentary Wi-Fi access"
+                ]
+            }
+        },
+        {
+            "id": "SCH",
+            "city": "Macau",
+            "cityId": "MACAU",
+            "propertyId": "SCH",
+            "propertyName": "Studio City",
+            "name": "Studio City Hotel",
+            "images": [
+                "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c3c3d78c9a82studio-city1.jpg",
+                "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10d7b59d237studio-city2.jpg",
+                "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10d7b4ab402studio-city3.jpg"
+            ],
+            "shortDescription": "Begin your incredible journey in unique elegance and ultimate luxury at Studio City Hotel.",
+            "description": "NOTE: RiverScape will be closed for renovation from October 1, 2019 through summer of 2020. <br/><br/>Live like a Star in Asia's Entertainment Capital.<br/> <br/>Consisting of the Celebrity Tower and the Forbes Five-Star winner Star Tower, the hotel offers 1,600 rooms, all elegantly furnished and complete with services and amenities to match. The Celebrity Tower boasts comfort and style, bringing classic elegance to life with cinematic touches and red carpet services; while the awe-inspiring Star Tower offers lavish suites with spacious living quarters and exclusive facilities to satisfy the most discerning guests. Personalized check-in, private indoor heated pool and health club can be enjoyed by all Star Tower guests.",
+            "address": "Studio City Macau, Estrada do Istmo, Cotai, Macau, Macau",
+            "gps": {
+                "longitude": 113.55981,
+                "latitude": 22.141035
+            },
+            "phone": "+85388656868",
+            "email": "reservations@sc-macau.com",
+            "website": "www.studiocity-macau.com",
+            "fax": "",
+            "tags": [
+                "Live like a Star",
+                " Forbes Five-Star winner"
+            ],
+            "priority": 4,
+            "propertyLogo": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c472cb49bfbfStudio-Sity.png",
+            "hotelLogo": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c12614e1fe2bStudio-City.png",
+            "facilities": [
+                {
+                    "name": "Free self parking",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f62005813-freeparking.png",
+                    "priority": 6
+                },
+                {
+                    "name": "Free shuttle bus",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f6b0a1b16-shuttlebus.png",
+                    "priority": 7
+                },
+                {
+                    "name": "Spa",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f5b40b811-spa.png",
+                    "priority": 11
+                },
+                {
+                    "name": "Pool",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f5e43ef12-pool.png",
+                    "priority": 13
+                },
+                {
+                    "name": "Riverscape, outdoor pool",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f5e43ef12-pool.png",
+                    "priority": 14
+                },
+                {
+                    "name": "Fitness center",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f426eac03-finesscenter.png",
+                    "priority": 15
+                },
+                {
+                    "name": "Beauty Salon",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f553fb009-beauty.png",
+                    "priority": 19
+                },
+                {
+                    "name": "Night Club",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f6e0b5817-nightclub.png",
+                    "priority": 24
+                },
+                {
+                    "name": "VR Park",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f71c7c618-vr.png",
+                    "priority": 25
+                },
+                {
+                    "name": "Meeting Room",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f81823523-meeting.png",
+                    "priority": 26
+                }
+            ],
+            "roomTypes": [
+                {
+                    "id": "SPK",
+                    "hotelId": "SCH",
+                    "name": "Star Premier King Suite",
+                    "images": [
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10f3b9d8696studio-city_star-premier-king-suite1.jpg",
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10f3ba66e2dstudio-city_star-premier-king-suite2.jpg",
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10f3b95646dstudio-city_star-premier-king-suite3.jpg",
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10f3baca378studio-city_star-premier-king-suite4.jpg"
+                    ],
+                    "shortDescription": "The spacious open plan lets you enjoy the comfort of a luxurious king bed, down feather duvet and pillows, and a variety of premium services.",
+                    "description": "Your essential Star Tower residence, the spacious open plan Star Premier King Suite lets you enjoy the comfort of a luxurious king bed, down feather duvet and pillows, and a variety of premium amenities and services including: a 55\" LCD HDTV, mini bar, coffee machine, separate bath and walk-in rain shower, free WiFi and 24/7 room service to complement your stay.",
+                    "priority": 1,
+                    "specialRequests": [
+                        {
+                            "id": "AWAY",
+                            "name": "Far away from lift",
+                            "engName": "Far away from lift",
+                            "priority": 4,
+                            "exclusivityGroup": "AWAYFROMLIFT"
+                        },
+                        {
+                            "id": "HIGH",
+                            "name": "High floor room",
+                            "engName": "High floor room",
+                            "priority": 3,
+                            "exclusivityGroup": "HIGHFLOOR"
+                        },
+                        {
+                            "id": "SMOK",
+                            "name": "Smoking",
+                            "engName": "Smoking",
+                            "priority": 1,
+                            "exclusivityGroup": "SMOKING"
+                        },
+                        {
+                            "id": "NONSM",
+                            "name": "Non-smoking",
+                            "engName": "Non-smoking",
+                            "priority": 2,
+                            "exclusivityGroup": "SMOKING"
+                        }
+                    ],
+                    "ratePlans": [
+                        {
+                            "id": "WECRM",
+                            "description": "Best Available Rate",
+                            "currencyCode": "HKD",
+                            "price": 3860.32,
+                            "priceBeforeTax": 3356.8,
+                            "selectedCurrencyCode": "MOP",
+                            "priceInSelectedCurrency": 3976.72,
+                            "priceInSelectedCurrencyBeforeTax": 3458.02,
+                            "terms": "<ul style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Entertainment Voucher can be used for the purchase of standard adult tickets or standard admission to the following attractions: Golden Reel, Batman Dark Flight, Warner Bros. Fun Zone, FlipOut and Legend Heroes Park at Studio City. Only one MOP100 Entertainment Voucher is accepted for the purchase of one ticket or admission. Each voucher can only be used once and will be collected after use.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">RiverScape will be closed for renovation from Oct. 01, 2019 through summer of 2020. The outdoor swimming pool will remain open as usual.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Star Tower guests as well as Celebrity Suite room guests have exclusive access to our private indoor heated pool and the gym at Star Tower.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Cancellation or amendment has to be made 1 day prior to the arrival day before 1800hrs (Local Time). First night room rental plus prevailing taxes will be forfeited for any amendment, cancellation or failure to check-in on the confirmed stay date.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Celebrity King Room can accommodate up to two adults and one child under 12 years with existing beds; Celebrity Twin Room can accommodate up to two adults and two children under 12 years with existing beds.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Celebrity Suite can accommodate up to up to three adults or two adults and two children under 12 years. A surcharge for the third guest of 12 years or over applied. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">All room types of Star Tower can accommodate up to three adults or two adults and two children under 12 years.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">A surcharge for the third guest of 12 years or over applies at Star Tower. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.</li>\n</ul>",
+                            "termsPlainText": [
+                                "Entertainment Voucher can be used for the purchase of standard adult tickets or standard admission to the following attractions: Golden Reel, Batman Dark Flight, Warner Bros. Fun Zone, FlipOut and Legend Heroes Park at Studio City. Only one MOP100 Entertainment Voucher is accepted for the purchase of one ticket or admission. Each voucher can only be used once and will be collected after use.",
+                                "RiverScape will be closed for renovation from Oct. 01, 2019 through summer of 2020. The outdoor swimming pool will remain open as usual.",
+                                "Star Tower guests as well as Celebrity Suite room guests have exclusive access to our private indoor heated pool and the gym at Star Tower.",
+                                "Cancellation or amendment has to be made 1 day prior to the arrival day before 1800hrs (Local Time). First night room rental plus prevailing taxes will be forfeited for any amendment, cancellation or failure to check-in on the confirmed stay date.",
+                                "Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).",
+                                "Celebrity King Room can accommodate up to two adults and one child under 12 years with existing beds; Celebrity Twin Room can accommodate up to two adults and two children under 12 years with existing beds.",
+                                "Celebrity Suite can accommodate up to up to three adults or two adults and two children under 12 years. A surcharge for the third guest of 12 years or over applied. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.",
+                                "All room types of Star Tower can accommodate up to three adults or two adults and two children under 12 years.",
+                                "A surcharge for the third guest of 12 years or over applies at Star Tower. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services."
+                            ],
+                            "rateInclusion": [
+                                "MOP100 Entertainment Voucher",
+                                "Access to the Outdoor Pool and the meandering RiverScape",
+                                "Access to the gym",
+                                "Complimentary Wi-Fi access"
+                            ]
+                        }
+                    ],
+                    "availabilityStatus": "AVAILABLE",
+                    "available": true,
+                    "roomTypeId": "SPK"
+                },
+                {
+                    "id": "SPT",
+                    "hotelId": "SCH",
+                    "name": "Star Premier Twin Suite",
+                    "images": [
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10f3e06ef4astudio-city_star-premier-twin-suite1.jpg",
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10f3dfd3046studio-city_star-premier-twin-suite2.jpg"
+                    ],
+                    "shortDescription": "The spacious open plan Star Premier Twin Suite lets you enjoy the comfort of 2 luxurious queen beds, down feather duvet and other services.",
+                    "description": "The spacious open plan Star Premier Twin Suite lets you enjoy the comfort of 2 luxurious queen beds, down feather duvet and pillows. It comes with a variety of premium amenities and services including: a 55\" LCD HDTV, mini bar, coffee machine, separate bath and walk-in rain shower, free WiFi and 24/7 room service to compliment your stay.",
+                    "priority": 2,
+                    "specialRequests": [
+                        {
+                            "id": "AWAY",
+                            "name": "Far away from lift",
+                            "engName": "Far away from lift",
+                            "priority": 4,
+                            "exclusivityGroup": "AWAYFROMLIFT"
+                        },
+                        {
+                            "id": "HIGH",
+                            "name": "High floor room",
+                            "engName": "High floor room",
+                            "priority": 3,
+                            "exclusivityGroup": "HIGHFLOOR"
+                        },
+                        {
+                            "id": "SMOK",
+                            "name": "Smoking",
+                            "engName": "Smoking",
+                            "priority": 1,
+                            "exclusivityGroup": "SMOKING"
+                        },
+                        {
+                            "id": "NONSM",
+                            "name": "Non-smoking",
+                            "engName": "Non-smoking",
+                            "priority": 2,
+                            "exclusivityGroup": "SMOKING"
+                        }
+                    ],
+                    "ratePlans": [
+                        {
+                            "id": "WECRM",
+                            "description": "Best Available Rate",
+                            "currencyCode": "HKD",
+                            "price": 4136.32,
+                            "priceBeforeTax": 3596.8,
+                            "selectedCurrencyCode": "MOP",
+                            "priceInSelectedCurrency": 4261.05,
+                            "priceInSelectedCurrencyBeforeTax": 3705.26,
+                            "terms": "<ul style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Entertainment Voucher can be used for the purchase of standard adult tickets or standard admission to the following attractions: Golden Reel, Batman Dark Flight, Warner Bros. Fun Zone, FlipOut and Legend Heroes Park at Studio City. Only one MOP100 Entertainment Voucher is accepted for the purchase of one ticket or admission. Each voucher can only be used once and will be collected after use.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">RiverScape will be closed for renovation from Oct. 01, 2019 through summer of 2020. The outdoor swimming pool will remain open as usual.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Star Tower guests as well as Celebrity Suite room guests have exclusive access to our private indoor heated pool and the gym at Star Tower.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Cancellation or amendment has to be made 1 day prior to the arrival day before 1800hrs (Local Time). First night room rental plus prevailing taxes will be forfeited for any amendment, cancellation or failure to check-in on the confirmed stay date.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Celebrity King Room can accommodate up to two adults and one child under 12 years with existing beds; Celebrity Twin Room can accommodate up to two adults and two children under 12 years with existing beds.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Celebrity Suite can accommodate up to up to three adults or two adults and two children under 12 years. A surcharge for the third guest of 12 years or over applied. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">All room types of Star Tower can accommodate up to three adults or two adults and two children under 12 years.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">A surcharge for the third guest of 12 years or over applies at Star Tower. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.</li>\n</ul>",
+                            "termsPlainText": [
+                                "Entertainment Voucher can be used for the purchase of standard adult tickets or standard admission to the following attractions: Golden Reel, Batman Dark Flight, Warner Bros. Fun Zone, FlipOut and Legend Heroes Park at Studio City. Only one MOP100 Entertainment Voucher is accepted for the purchase of one ticket or admission. Each voucher can only be used once and will be collected after use.",
+                                "RiverScape will be closed for renovation from Oct. 01, 2019 through summer of 2020. The outdoor swimming pool will remain open as usual.",
+                                "Star Tower guests as well as Celebrity Suite room guests have exclusive access to our private indoor heated pool and the gym at Star Tower.",
+                                "Cancellation or amendment has to be made 1 day prior to the arrival day before 1800hrs (Local Time). First night room rental plus prevailing taxes will be forfeited for any amendment, cancellation or failure to check-in on the confirmed stay date.",
+                                "Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).",
+                                "Celebrity King Room can accommodate up to two adults and one child under 12 years with existing beds; Celebrity Twin Room can accommodate up to two adults and two children under 12 years with existing beds.",
+                                "Celebrity Suite can accommodate up to up to three adults or two adults and two children under 12 years. A surcharge for the third guest of 12 years or over applied. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.",
+                                "All room types of Star Tower can accommodate up to three adults or two adults and two children under 12 years.",
+                                "A surcharge for the third guest of 12 years or over applies at Star Tower. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services."
+                            ],
+                            "rateInclusion": [
+                                "MOP100 Entertainment Voucher",
+                                "Access to the Outdoor Pool and the meandering RiverScape",
+                                "Access to the gym",
+                                "Complimentary Wi-Fi access"
+                            ]
+                        }
+                    ],
+                    "availabilityStatus": "AVAILABLE",
+                    "available": true,
+                    "roomTypeId": "SPT"
+                },
+                {
+                    "id": "CVK",
+                    "hotelId": "SCH",
+                    "name": "Celebrity Vista King",
+                    "images": [
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10f94b883cfstudio-city_celebrity-cotai-vista-king1.jpg",
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10f94be02a9studio-city_celebrity-cotai-vista-king2.jpg"
+                    ],
+                    "shortDescription": "Our Celebrity Vista King faces either a French garden or the Cotai Strip, offering sweeping views.",
+                    "description": "Our Celebrity Vista King features a beautiful view of either a French garden or the enchanting Cotai Strip. It comes with a luxurious king bed, 300-thread count linen and down feather duvet and pillows – along with a variety of premium amenities and services to bring you complete comfort throughout your stay including: a 42” LCD HDTV, mini bar, free wifi and 24/7 concierge service.",
+                    "priority": 8,
+                    "specialRequests": [
+                        {
+                            "id": "AWAY",
+                            "name": "Far away from lift",
+                            "engName": "Far away from lift",
+                            "priority": 4,
+                            "exclusivityGroup": "AWAYFROMLIFT"
+                        },
+                        {
+                            "id": "HIGH",
+                            "name": "High floor room",
+                            "engName": "High floor room",
+                            "priority": 3,
+                            "exclusivityGroup": "HIGHFLOOR"
+                        },
+                        {
+                            "id": "SMOK",
+                            "name": "Smoking",
+                            "engName": "Smoking",
+                            "priority": 1,
+                            "exclusivityGroup": "SMOKING"
+                        },
+                        {
+                            "id": "NONSM",
+                            "name": "Non-smoking",
+                            "engName": "Non-smoking",
+                            "priority": 2,
+                            "exclusivityGroup": "SMOKING"
+                        }
+                    ],
+                    "ratePlans": [
+                        {
+                            "id": "WECRM",
+                            "description": "Best Available Rate",
+                            "currencyCode": "HKD",
+                            "price": 2664.32,
+                            "priceBeforeTax": 2316.8,
+                            "selectedCurrencyCode": "MOP",
+                            "priceInSelectedCurrency": 2744.66,
+                            "priceInSelectedCurrencyBeforeTax": 2386.66,
+                            "terms": "<ul style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Entertainment Voucher can be used for the purchase of standard adult tickets or standard admission to the following attractions: Golden Reel, Batman Dark Flight, Warner Bros. Fun Zone, FlipOut and Legend Heroes Park at Studio City. Only one MOP100 Entertainment Voucher is accepted for the purchase of one ticket or admission. Each voucher can only be used once and will be collected after use.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">RiverScape will be closed for renovation from Oct. 01, 2019 through summer of 2020. The outdoor swimming pool will remain open as usual.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Star Tower guests as well as Celebrity Suite room guests have exclusive access to our private indoor heated pool and the gym at Star Tower.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Cancellation or amendment has to be made 1 day prior to the arrival day before 1800hrs (Local Time). First night room rental plus prevailing taxes will be forfeited for any amendment, cancellation or failure to check-in on the confirmed stay date.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Celebrity King Room can accommodate up to two adults and one child under 12 years with existing beds; Celebrity Twin Room can accommodate up to two adults and two children under 12 years with existing beds.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Celebrity Suite can accommodate up to up to three adults or two adults and two children under 12 years. A surcharge for the third guest of 12 years or over applied. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">All room types of Star Tower can accommodate up to three adults or two adults and two children under 12 years.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">A surcharge for the third guest of 12 years or over applies at Star Tower. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.</li>\n</ul>",
+                            "termsPlainText": [
+                                "Entertainment Voucher can be used for the purchase of standard adult tickets or standard admission to the following attractions: Golden Reel, Batman Dark Flight, Warner Bros. Fun Zone, FlipOut and Legend Heroes Park at Studio City. Only one MOP100 Entertainment Voucher is accepted for the purchase of one ticket or admission. Each voucher can only be used once and will be collected after use.",
+                                "RiverScape will be closed for renovation from Oct. 01, 2019 through summer of 2020. The outdoor swimming pool will remain open as usual.",
+                                "Star Tower guests as well as Celebrity Suite room guests have exclusive access to our private indoor heated pool and the gym at Star Tower.",
+                                "Cancellation or amendment has to be made 1 day prior to the arrival day before 1800hrs (Local Time). First night room rental plus prevailing taxes will be forfeited for any amendment, cancellation or failure to check-in on the confirmed stay date.",
+                                "Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).",
+                                "Celebrity King Room can accommodate up to two adults and one child under 12 years with existing beds; Celebrity Twin Room can accommodate up to two adults and two children under 12 years with existing beds.",
+                                "Celebrity Suite can accommodate up to up to three adults or two adults and two children under 12 years. A surcharge for the third guest of 12 years or over applied. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.",
+                                "All room types of Star Tower can accommodate up to three adults or two adults and two children under 12 years.",
+                                "A surcharge for the third guest of 12 years or over applies at Star Tower. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services."
+                            ],
+                            "rateInclusion": [
+                                "MOP100 Entertainment Voucher",
+                                "Access to the Outdoor Pool and the meandering RiverScape",
+                                "Access to the gym",
+                                "Complimentary Wi-Fi access"
+                            ]
+                        }
+                    ],
+                    "availabilityStatus": "AVAILABLE",
+                    "available": true,
+                    "roomTypeId": "CVK"
+                },
+                {
+                    "id": "CVT",
+                    "hotelId": "SCH",
+                    "name": "Celebrity Vista Twin",
+                    "images": [
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10f979d2589studio-city_celebrity-cotai-vista-twin1.jpg",
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10f97a3ed62studio-city_celebrity-cotai-vista-twin2.jpg"
+                    ],
+                    "shortDescription": "The suite comes with two luxurious double beds, 300-thread count linen and down feather duvet and pillows – along with a variety of premium services.",
+                    "description": "Our Celebrity Vista Twin features a beautiful view of either a French garden or the enchanting Cotai Strip. It comes with two luxurious double beds, 300-thread count linen and down feather duvet and pillows – along with a variety of premium amenities and services to bring you complete comfort throughout your stay including: a 42” LCD HDTV, mini bar, free wifi and 24/7 concierge service.",
+                    "priority": 9,
+                    "specialRequests": [
+                        {
+                            "id": "AWAY",
+                            "name": "Far away from lift",
+                            "engName": "Far away from lift",
+                            "priority": 4,
+                            "exclusivityGroup": "AWAYFROMLIFT"
+                        },
+                        {
+                            "id": "HIGH",
+                            "name": "High floor room",
+                            "engName": "High floor room",
+                            "priority": 3,
+                            "exclusivityGroup": "HIGHFLOOR"
+                        },
+                        {
+                            "id": "SMOK",
+                            "name": "Smoking",
+                            "engName": "Smoking",
+                            "priority": 1,
+                            "exclusivityGroup": "SMOKING"
+                        },
+                        {
+                            "id": "NONSM",
+                            "name": "Non-smoking",
+                            "engName": "Non-smoking",
+                            "priority": 2,
+                            "exclusivityGroup": "SMOKING"
+                        }
+                    ],
+                    "ratePlans": [
+                        {
+                            "id": "WECRM",
+                            "description": "Best Available Rate",
+                            "currencyCode": "HKD",
+                            "price": 2940.32,
+                            "priceBeforeTax": 2556.8,
+                            "selectedCurrencyCode": "MOP",
+                            "priceInSelectedCurrency": 3028.98,
+                            "priceInSelectedCurrencyBeforeTax": 2633.9,
+                            "terms": "<ul style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Entertainment Voucher can be used for the purchase of standard adult tickets or standard admission to the following attractions: Golden Reel, Batman Dark Flight, Warner Bros. Fun Zone, FlipOut and Legend Heroes Park at Studio City. Only one MOP100 Entertainment Voucher is accepted for the purchase of one ticket or admission. Each voucher can only be used once and will be collected after use.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">RiverScape will be closed for renovation from Oct. 01, 2019 through summer of 2020. The outdoor swimming pool will remain open as usual.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Star Tower guests as well as Celebrity Suite room guests have exclusive access to our private indoor heated pool and the gym at Star Tower.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Cancellation or amendment has to be made 1 day prior to the arrival day before 1800hrs (Local Time). First night room rental plus prevailing taxes will be forfeited for any amendment, cancellation or failure to check-in on the confirmed stay date.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Celebrity King Room can accommodate up to two adults and one child under 12 years with existing beds; Celebrity Twin Room can accommodate up to two adults and two children under 12 years with existing beds.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Celebrity Suite can accommodate up to up to three adults or two adults and two children under 12 years. A surcharge for the third guest of 12 years or over applied. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">All room types of Star Tower can accommodate up to three adults or two adults and two children under 12 years.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">A surcharge for the third guest of 12 years or over applies at Star Tower. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.</li>\n</ul>",
+                            "termsPlainText": [
+                                "Entertainment Voucher can be used for the purchase of standard adult tickets or standard admission to the following attractions: Golden Reel, Batman Dark Flight, Warner Bros. Fun Zone, FlipOut and Legend Heroes Park at Studio City. Only one MOP100 Entertainment Voucher is accepted for the purchase of one ticket or admission. Each voucher can only be used once and will be collected after use.",
+                                "RiverScape will be closed for renovation from Oct. 01, 2019 through summer of 2020. The outdoor swimming pool will remain open as usual.",
+                                "Star Tower guests as well as Celebrity Suite room guests have exclusive access to our private indoor heated pool and the gym at Star Tower.",
+                                "Cancellation or amendment has to be made 1 day prior to the arrival day before 1800hrs (Local Time). First night room rental plus prevailing taxes will be forfeited for any amendment, cancellation or failure to check-in on the confirmed stay date.",
+                                "Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).",
+                                "Celebrity King Room can accommodate up to two adults and one child under 12 years with existing beds; Celebrity Twin Room can accommodate up to two adults and two children under 12 years with existing beds.",
+                                "Celebrity Suite can accommodate up to up to three adults or two adults and two children under 12 years. A surcharge for the third guest of 12 years or over applied. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.",
+                                "All room types of Star Tower can accommodate up to three adults or two adults and two children under 12 years.",
+                                "A surcharge for the third guest of 12 years or over applies at Star Tower. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services."
+                            ],
+                            "rateInclusion": [
+                                "MOP100 Entertainment Voucher",
+                                "Access to the Outdoor Pool and the meandering RiverScape",
+                                "Access to the gym",
+                                "Complimentary Wi-Fi access"
+                            ]
+                        }
+                    ],
+                    "availabilityStatus": "AVAILABLE",
+                    "available": true,
+                    "roomTypeId": "CVT"
+                },
+                {
+                    "id": "CPK",
+                    "hotelId": "SCH",
+                    "name": "Celebrity Premium Vista King",
+                    "images": [
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10f9e9d38e6studio-city_celebrity-premium-vista-king1.jpg",
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10f9eb7b3fbstudio-city_celebrity-premium-vista-king2.jpg",
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10f9ec3ef58studio-city_celebrity-premium-vista-king3.jpg"
+                    ],
+                    "shortDescription": "Directly facing the Cotai Strip, our Celebrity Premium Vista King offers full panoramic views through its floor-to-ceiling windows",
+                    "description": "Directly facing the Cotai Strip, our Celebrity Premium Vista King offers full panoramic views through its floor-to-ceiling windows. It comes with a luxurious king bed, 300-thread count linen and down feather duvet and pillows – along with a variety of premium amenities and services to bring you complete comfort throughout your stay including: a 42” LCD HDTV, mini bar, free Wi-Fi and 24/7 concierge service.",
+                    "priority": 10,
+                    "specialRequests": [
+                        {
+                            "id": "AWAY",
+                            "name": "Far away from lift",
+                            "engName": "Far away from lift",
+                            "priority": 4,
+                            "exclusivityGroup": "AWAYFROMLIFT"
+                        },
+                        {
+                            "id": "HIGH",
+                            "name": "High floor room",
+                            "engName": "High floor room",
+                            "priority": 3,
+                            "exclusivityGroup": "HIGHFLOOR"
+                        },
+                        {
+                            "id": "SMOK",
+                            "name": "Smoking",
+                            "engName": "Smoking",
+                            "priority": 1,
+                            "exclusivityGroup": "SMOKING"
+                        },
+                        {
+                            "id": "NONSM",
+                            "name": "Non-smoking",
+                            "engName": "Non-smoking",
+                            "priority": 2,
+                            "exclusivityGroup": "SMOKING"
+                        }
+                    ],
+                    "ratePlans": [
+                        {
+                            "id": "WECRM",
+                            "description": "Best Available Rate",
+                            "currencyCode": "HKD",
+                            "price": 2940.32,
+                            "priceBeforeTax": 2556.8,
+                            "selectedCurrencyCode": "MOP",
+                            "priceInSelectedCurrency": 3028.98,
+                            "priceInSelectedCurrencyBeforeTax": 2633.9,
+                            "terms": "<ul style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Entertainment Voucher can be used for the purchase of standard adult tickets or standard admission to the following attractions: Golden Reel, Batman Dark Flight, Warner Bros. Fun Zone, FlipOut and Legend Heroes Park at Studio City. Only one MOP100 Entertainment Voucher is accepted for the purchase of one ticket or admission. Each voucher can only be used once and will be collected after use.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">RiverScape will be closed for renovation from Oct. 01, 2019 through summer of 2020. The outdoor swimming pool will remain open as usual.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Star Tower guests as well as Celebrity Suite room guests have exclusive access to our private indoor heated pool and the gym at Star Tower.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Cancellation or amendment has to be made 1 day prior to the arrival day before 1800hrs (Local Time). First night room rental plus prevailing taxes will be forfeited for any amendment, cancellation or failure to check-in on the confirmed stay date.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Celebrity King Room can accommodate up to two adults and one child under 12 years with existing beds; Celebrity Twin Room can accommodate up to two adults and two children under 12 years with existing beds.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Celebrity Suite can accommodate up to up to three adults or two adults and two children under 12 years. A surcharge for the third guest of 12 years or over applied. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">All room types of Star Tower can accommodate up to three adults or two adults and two children under 12 years.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">A surcharge for the third guest of 12 years or over applies at Star Tower. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.</li>\n</ul>",
+                            "termsPlainText": [
+                                "Entertainment Voucher can be used for the purchase of standard adult tickets or standard admission to the following attractions: Golden Reel, Batman Dark Flight, Warner Bros. Fun Zone, FlipOut and Legend Heroes Park at Studio City. Only one MOP100 Entertainment Voucher is accepted for the purchase of one ticket or admission. Each voucher can only be used once and will be collected after use.",
+                                "RiverScape will be closed for renovation from Oct. 01, 2019 through summer of 2020. The outdoor swimming pool will remain open as usual.",
+                                "Star Tower guests as well as Celebrity Suite room guests have exclusive access to our private indoor heated pool and the gym at Star Tower.",
+                                "Cancellation or amendment has to be made 1 day prior to the arrival day before 1800hrs (Local Time). First night room rental plus prevailing taxes will be forfeited for any amendment, cancellation or failure to check-in on the confirmed stay date.",
+                                "Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).",
+                                "Celebrity King Room can accommodate up to two adults and one child under 12 years with existing beds; Celebrity Twin Room can accommodate up to two adults and two children under 12 years with existing beds.",
+                                "Celebrity Suite can accommodate up to up to three adults or two adults and two children under 12 years. A surcharge for the third guest of 12 years or over applied. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.",
+                                "All room types of Star Tower can accommodate up to three adults or two adults and two children under 12 years.",
+                                "A surcharge for the third guest of 12 years or over applies at Star Tower. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services."
+                            ],
+                            "rateInclusion": [
+                                "MOP100 Entertainment Voucher",
+                                "Access to the Outdoor Pool and the meandering RiverScape",
+                                "Access to the gym",
+                                "Complimentary Wi-Fi access"
+                            ]
+                        }
+                    ],
+                    "availabilityStatus": "AVAILABLE",
+                    "available": true,
+                    "roomTypeId": "CPK"
+                },
+                {
+                    "id": "CPT",
+                    "hotelId": "SCH",
+                    "name": "Celebrity Premium Vista Twin",
+                    "images": [
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10fa066db94studio-city_celebrity-premium-vista-twin1.jpg",
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10fa06c5b8astudio-city_celebrity-premium-vista-twin2.jpg"
+                    ],
+                    "shortDescription": "Directly facing the Cotai Strip, our Celebrity Premium Vista Twin offers full panoramic views through its floor-to-ceiling windows.",
+                    "description": "Directly facing the Cotai Strip, our Celebrity Premium Vista Twin offers full panoramic views through its floor-to-ceiling windows. It comes with two luxurious double beds, 300-thread count linen and down feather duvet and pillows – along with a variety of premium amenities and services to bring you complete comfort throughout your stay including: a 42” LCD HDTV, mini bar, free Wi-Fi and 24/7 concierge service.",
+                    "priority": 11,
+                    "specialRequests": [
+                        {
+                            "id": "AWAY",
+                            "name": "Far away from lift",
+                            "engName": "Far away from lift",
+                            "priority": 4,
+                            "exclusivityGroup": "AWAYFROMLIFT"
+                        },
+                        {
+                            "id": "HIGH",
+                            "name": "High floor room",
+                            "engName": "High floor room",
+                            "priority": 3,
+                            "exclusivityGroup": "HIGHFLOOR"
+                        },
+                        {
+                            "id": "SMOK",
+                            "name": "Smoking",
+                            "engName": "Smoking",
+                            "priority": 1,
+                            "exclusivityGroup": "SMOKING"
+                        },
+                        {
+                            "id": "NONSM",
+                            "name": "Non-smoking",
+                            "engName": "Non-smoking",
+                            "priority": 2,
+                            "exclusivityGroup": "SMOKING"
+                        }
+                    ],
+                    "ratePlans": [
+                        {
+                            "id": "WECRM",
+                            "description": "Best Available Rate",
+                            "currencyCode": "HKD",
+                            "price": 3216.32,
+                            "priceBeforeTax": 2796.8,
+                            "selectedCurrencyCode": "MOP",
+                            "priceInSelectedCurrency": 3313.3,
+                            "priceInSelectedCurrencyBeforeTax": 2881.13,
+                            "terms": "<ul style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Entertainment Voucher can be used for the purchase of standard adult tickets or standard admission to the following attractions: Golden Reel, Batman Dark Flight, Warner Bros. Fun Zone, FlipOut and Legend Heroes Park at Studio City. Only one MOP100 Entertainment Voucher is accepted for the purchase of one ticket or admission. Each voucher can only be used once and will be collected after use.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">RiverScape will be closed for renovation from Oct. 01, 2019 through summer of 2020. The outdoor swimming pool will remain open as usual.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Star Tower guests as well as Celebrity Suite room guests have exclusive access to our private indoor heated pool and the gym at Star Tower.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Cancellation or amendment has to be made 1 day prior to the arrival day before 1800hrs (Local Time). First night room rental plus prevailing taxes will be forfeited for any amendment, cancellation or failure to check-in on the confirmed stay date.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Celebrity King Room can accommodate up to two adults and one child under 12 years with existing beds; Celebrity Twin Room can accommodate up to two adults and two children under 12 years with existing beds.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Celebrity Suite can accommodate up to up to three adults or two adults and two children under 12 years. A surcharge for the third guest of 12 years or over applied. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">All room types of Star Tower can accommodate up to three adults or two adults and two children under 12 years.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">A surcharge for the third guest of 12 years or over applies at Star Tower. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.</li>\n</ul>",
+                            "termsPlainText": [
+                                "Entertainment Voucher can be used for the purchase of standard adult tickets or standard admission to the following attractions: Golden Reel, Batman Dark Flight, Warner Bros. Fun Zone, FlipOut and Legend Heroes Park at Studio City. Only one MOP100 Entertainment Voucher is accepted for the purchase of one ticket or admission. Each voucher can only be used once and will be collected after use.",
+                                "RiverScape will be closed for renovation from Oct. 01, 2019 through summer of 2020. The outdoor swimming pool will remain open as usual.",
+                                "Star Tower guests as well as Celebrity Suite room guests have exclusive access to our private indoor heated pool and the gym at Star Tower.",
+                                "Cancellation or amendment has to be made 1 day prior to the arrival day before 1800hrs (Local Time). First night room rental plus prevailing taxes will be forfeited for any amendment, cancellation or failure to check-in on the confirmed stay date.",
+                                "Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).",
+                                "Celebrity King Room can accommodate up to two adults and one child under 12 years with existing beds; Celebrity Twin Room can accommodate up to two adults and two children under 12 years with existing beds.",
+                                "Celebrity Suite can accommodate up to up to three adults or two adults and two children under 12 years. A surcharge for the third guest of 12 years or over applied. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.",
+                                "All room types of Star Tower can accommodate up to three adults or two adults and two children under 12 years.",
+                                "A surcharge for the third guest of 12 years or over applies at Star Tower. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services."
+                            ],
+                            "rateInclusion": [
+                                "MOP100 Entertainment Voucher",
+                                "Access to the Outdoor Pool and the meandering RiverScape",
+                                "Access to the gym",
+                                "Complimentary Wi-Fi access"
+                            ]
+                        }
+                    ],
+                    "availabilityStatus": "AVAILABLE",
+                    "available": true,
+                    "roomTypeId": "CPT"
+                },
+                {
+                    "id": "CSS",
+                    "hotelId": "SCH",
+                    "name": "Celebrity Suite",
+                    "images": [
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10fa2397f2fstudio-city_celebrity-suite1.jpg",
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10fa246bc95studio-city_celebrity-suite2.jpg",
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10fa24d1b00studio-city_celebrity-suite3.jpg",
+                        "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10fa2540e02studio-city_celebrity-suite4.jpg"
+                    ],
+                    "shortDescription": "Boasting fascinating views and a unique experience, this suite is designed to cater for those who love to indulge in the finest things in life.",
+                    "description": "Boasting fascinating views and a unique experience without compromising on space, the Celebrity Suite is designed to cater for those who love to indulge in the finest things in life. The suite comes with a luxurious king bed with 600-thread count linen, down feather duvet and pillows, and a vast array of premium amenities and exclusive services including: a separate powder room, a 55” LCD HDTV with Blu-ray DVD player and interactive touchpad control in the lounge, a 42” LCD HDTV in the bedroom, mini bar, Nespresso coffee machine, separate bath and walk-in rain shower, free wifi and 24/7 concierge service. ",
+                    "priority": 14,
+                    "specialRequests": [
+                        {
+                            "id": "AWAY",
+                            "name": "Far away from lift",
+                            "engName": "Far away from lift",
+                            "priority": 4,
+                            "exclusivityGroup": "AWAYFROMLIFT"
+                        },
+                        {
+                            "id": "HIGH",
+                            "name": "High floor room",
+                            "engName": "High floor room",
+                            "priority": 3,
+                            "exclusivityGroup": "HIGHFLOOR"
+                        },
+                        {
+                            "id": "SMOK",
+                            "name": "Smoking",
+                            "engName": "Smoking",
+                            "priority": 1,
+                            "exclusivityGroup": "SMOKING"
+                        },
+                        {
+                            "id": "NONSM",
+                            "name": "Non-smoking",
+                            "engName": "Non-smoking",
+                            "priority": 2,
+                            "exclusivityGroup": "SMOKING"
+                        }
+                    ],
+                    "ratePlans": [
+                        {
+                            "id": "WECRM",
+                            "description": "Best Available Rate",
+                            "currencyCode": "HKD",
+                            "price": 4596.32,
+                            "priceBeforeTax": 3996.8,
+                            "selectedCurrencyCode": "MOP",
+                            "priceInSelectedCurrency": 4734.92,
+                            "priceInSelectedCurrencyBeforeTax": 4117.32,
+                            "terms": "<ul style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Entertainment Voucher can be used for the purchase of standard adult tickets or standard admission to the following attractions: Golden Reel, Batman Dark Flight, Warner Bros. Fun Zone, FlipOut and Legend Heroes Park at Studio City. Only one MOP100 Entertainment Voucher is accepted for the purchase of one ticket or admission. Each voucher can only be used once and will be collected after use.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">RiverScape will be closed for renovation from Oct. 01, 2019 through summer of 2020. The outdoor swimming pool will remain open as usual.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Star Tower guests as well as Celebrity Suite room guests have exclusive access to our private indoor heated pool and the gym at Star Tower.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Cancellation or amendment has to be made 1 day prior to the arrival day before 1800hrs (Local Time). First night room rental plus prevailing taxes will be forfeited for any amendment, cancellation or failure to check-in on the confirmed stay date.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Celebrity King Room can accommodate up to two adults and one child under 12 years with existing beds; Celebrity Twin Room can accommodate up to two adults and two children under 12 years with existing beds.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Celebrity Suite can accommodate up to up to three adults or two adults and two children under 12 years. A surcharge for the third guest of 12 years or over applied. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">All room types of Star Tower can accommodate up to three adults or two adults and two children under 12 years.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">A surcharge for the third guest of 12 years or over applies at Star Tower. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.</li>\n</ul>",
+                            "termsPlainText": [
+                                "Entertainment Voucher can be used for the purchase of standard adult tickets or standard admission to the following attractions: Golden Reel, Batman Dark Flight, Warner Bros. Fun Zone, FlipOut and Legend Heroes Park at Studio City. Only one MOP100 Entertainment Voucher is accepted for the purchase of one ticket or admission. Each voucher can only be used once and will be collected after use.",
+                                "RiverScape will be closed for renovation from Oct. 01, 2019 through summer of 2020. The outdoor swimming pool will remain open as usual.",
+                                "Star Tower guests as well as Celebrity Suite room guests have exclusive access to our private indoor heated pool and the gym at Star Tower.",
+                                "Cancellation or amendment has to be made 1 day prior to the arrival day before 1800hrs (Local Time). First night room rental plus prevailing taxes will be forfeited for any amendment, cancellation or failure to check-in on the confirmed stay date.",
+                                "Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).",
+                                "Celebrity King Room can accommodate up to two adults and one child under 12 years with existing beds; Celebrity Twin Room can accommodate up to two adults and two children under 12 years with existing beds.",
+                                "Celebrity Suite can accommodate up to up to three adults or two adults and two children under 12 years. A surcharge for the third guest of 12 years or over applied. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.",
+                                "All room types of Star Tower can accommodate up to three adults or two adults and two children under 12 years.",
+                                "A surcharge for the third guest of 12 years or over applies at Star Tower. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services."
+                            ],
+                            "rateInclusion": [
+                                "MOP100 Entertainment Voucher",
+                                "Access to the Outdoor Pool and the meandering RiverScape",
+                                "Access to the gym",
+                                "Complimentary Wi-Fi access"
+                            ]
+                        }
+                    ],
+                    "availabilityStatus": "AVAILABLE",
+                    "available": true,
+                    "roomTypeId": "CSS"
+                }
+            ],
+            "mapId": "",
+            "bookingId": "STCMO",
+            "minRatePlan": {
+                "id": "WECRM",
+                "description": "Best Available Rate",
+                "currencyCode": "HKD",
+                "price": 2664.32,
+                "priceBeforeTax": 2316.8,
+                "selectedCurrencyCode": "MOP",
+                "priceInSelectedCurrency": 2744.66,
+                "priceInSelectedCurrencyBeforeTax": 2386.66,
+                "terms": "<ul style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Entertainment Voucher can be used for the purchase of standard adult tickets or standard admission to the following attractions: Golden Reel, Batman Dark Flight, Warner Bros. Fun Zone, FlipOut and Legend Heroes Park at Studio City. Only one MOP100 Entertainment Voucher is accepted for the purchase of one ticket or admission. Each voucher can only be used once and will be collected after use.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">RiverScape will be closed for renovation from Oct. 01, 2019 through summer of 2020. The outdoor swimming pool will remain open as usual.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Star Tower guests as well as Celebrity Suite room guests have exclusive access to our private indoor heated pool and the gym at Star Tower.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Cancellation or amendment has to be made 1 day prior to the arrival day before 1800hrs (Local Time). First night room rental plus prevailing taxes will be forfeited for any amendment, cancellation or failure to check-in on the confirmed stay date.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Celebrity King Room can accommodate up to two adults and one child under 12 years with existing beds; Celebrity Twin Room can accommodate up to two adults and two children under 12 years with existing beds.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Celebrity Suite can accommodate up to up to three adults or two adults and two children under 12 years. A surcharge for the third guest of 12 years or over applied. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">All room types of Star Tower can accommodate up to three adults or two adults and two children under 12 years.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">A surcharge for the third guest of 12 years or over applies at Star Tower. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.</li>\n</ul>",
+                "termsPlainText": [
+                    "Entertainment Voucher can be used for the purchase of standard adult tickets or standard admission to the following attractions: Golden Reel, Batman Dark Flight, Warner Bros. Fun Zone, FlipOut and Legend Heroes Park at Studio City. Only one MOP100 Entertainment Voucher is accepted for the purchase of one ticket or admission. Each voucher can only be used once and will be collected after use.",
+                    "RiverScape will be closed for renovation from Oct. 01, 2019 through summer of 2020. The outdoor swimming pool will remain open as usual.",
+                    "Star Tower guests as well as Celebrity Suite room guests have exclusive access to our private indoor heated pool and the gym at Star Tower.",
+                    "Cancellation or amendment has to be made 1 day prior to the arrival day before 1800hrs (Local Time). First night room rental plus prevailing taxes will be forfeited for any amendment, cancellation or failure to check-in on the confirmed stay date.",
+                    "Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).",
+                    "Celebrity King Room can accommodate up to two adults and one child under 12 years with existing beds; Celebrity Twin Room can accommodate up to two adults and two children under 12 years with existing beds.",
+                    "Celebrity Suite can accommodate up to up to three adults or two adults and two children under 12 years. A surcharge for the third guest of 12 years or over applied. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.",
+                    "All room types of Star Tower can accommodate up to three adults or two adults and two children under 12 years.",
+                    "A surcharge for the third guest of 12 years or over applies at Star Tower. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services."
+                ],
+                "rateInclusion": [
+                    "MOP100 Entertainment Voucher",
+                    "Access to the Outdoor Pool and the meandering RiverScape",
+                    "Access to the gym",
+                    "Complimentary Wi-Fi access"
+                ]
+            },
+            "maxRatePlan": {
+                "id": "WECRM",
+                "description": "Best Available Rate",
+                "currencyCode": "HKD",
+                "price": 4596.32,
+                "priceBeforeTax": 3996.8,
+                "selectedCurrencyCode": "MOP",
+                "priceInSelectedCurrency": 4734.92,
+                "priceInSelectedCurrencyBeforeTax": 4117.32,
+                "terms": "<ul style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Entertainment Voucher can be used for the purchase of standard adult tickets or standard admission to the following attractions: Golden Reel, Batman Dark Flight, Warner Bros. Fun Zone, FlipOut and Legend Heroes Park at Studio City. Only one MOP100 Entertainment Voucher is accepted for the purchase of one ticket or admission. Each voucher can only be used once and will be collected after use.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">RiverScape will be closed for renovation from Oct. 01, 2019 through summer of 2020. The outdoor swimming pool will remain open as usual.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Star Tower guests as well as Celebrity Suite room guests have exclusive access to our private indoor heated pool and the gym at Star Tower.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Cancellation or amendment has to be made 1 day prior to the arrival day before 1800hrs (Local Time). First night room rental plus prevailing taxes will be forfeited for any amendment, cancellation or failure to check-in on the confirmed stay date.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Celebrity King Room can accommodate up to two adults and one child under 12 years with existing beds; Celebrity Twin Room can accommodate up to two adults and two children under 12 years with existing beds.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">Celebrity Suite can accommodate up to up to three adults or two adults and two children under 12 years. A surcharge for the third guest of 12 years or over applied. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">All room types of Star Tower can accommodate up to three adults or two adults and two children under 12 years.</li>\n<li style=\"font-family:'Helvetica Neue', 'Roboto', Arial, sans-serif;line-height:20px;margin-left:16px;margin-right:16px;font-size:13px;color:#75787B;\">A surcharge for the third guest of 12 years or over applies at Star Tower. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.</li>\n</ul>",
+                "termsPlainText": [
+                    "Entertainment Voucher can be used for the purchase of standard adult tickets or standard admission to the following attractions: Golden Reel, Batman Dark Flight, Warner Bros. Fun Zone, FlipOut and Legend Heroes Park at Studio City. Only one MOP100 Entertainment Voucher is accepted for the purchase of one ticket or admission. Each voucher can only be used once and will be collected after use.",
+                    "RiverScape will be closed for renovation from Oct. 01, 2019 through summer of 2020. The outdoor swimming pool will remain open as usual.",
+                    "Star Tower guests as well as Celebrity Suite room guests have exclusive access to our private indoor heated pool and the gym at Star Tower.",
+                    "Cancellation or amendment has to be made 1 day prior to the arrival day before 1800hrs (Local Time). First night room rental plus prevailing taxes will be forfeited for any amendment, cancellation or failure to check-in on the confirmed stay date.",
+                    "Rates quoted are applicable to single and double occupancy only (any guest aged 12 or above counts as an occupant).",
+                    "Celebrity King Room can accommodate up to two adults and one child under 12 years with existing beds; Celebrity Twin Room can accommodate up to two adults and two children under 12 years with existing beds.",
+                    "Celebrity Suite can accommodate up to up to three adults or two adults and two children under 12 years. A surcharge for the third guest of 12 years or over applied. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services.",
+                    "All room types of Star Tower can accommodate up to three adults or two adults and two children under 12 years.",
+                    "A surcharge for the third guest of 12 years or over applies at Star Tower. This surcharge applies to hotel stay only and does not cover any other package benefits like show tickets, dining or spa services."
+                ],
+                "rateInclusion": [
+                    "MOP100 Entertainment Voucher",
+                    "Access to the Outdoor Pool and the meandering RiverScape",
+                    "Access to the gym",
+                    "Complimentary Wi-Fi access"
+                ]
+            }
+        },
+        {
+            "id": "ALT",
+            "city": "Macau",
+            "cityId": "MACAU",
+            "propertyId": "ALT",
+            "propertyName": "Altira",
+            "name": "Altira Macau",
+            "images": [
+                "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10d19ae3f57altira2.jpg",
+                "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10d19c6a0aaaltira1.jpg",
+                "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c10d18977ca7altira3.jpg"
+            ],
+            "shortDescription": "Comtemporary luxury at its best.  An oasis with spectacular panoramic views of the Macau Peninsula.",
+            "description": "Situated in the heart of Taipa, it is an oasis of sophistication offering spectacular panoramic views of the Macau Peninsula. The extraordinary 38-storey complex features 216 lavishly appointed guest rooms, including 24 deluxe suites and 4 astounding villas, all showcasing an unforgettable skyline. With interiors created by world-renowned designer Peter Remédios, Altira Macau combines comfort and style to elegant effect, offering impeccable service tailored to each guest. The hotel is home to a host of world-class culinary experiences, chic clubs and an award-winning day spa.",
+            "address": "Altira Macau, Av. de Kwong Tung, Macau",
+            "gps": {
+                "longitude": 113.555,
+                "latitude": 22.1619
+            },
+            "phone": "+85328868866",
+            "email": "hotelreserv@altiramacau.com",
+            "website": "www.altiramacau.com",
+            "fax": "",
+            "tags": [
+                "Verified luxury",
+                "  5-Star Forbes award",
+                " Designer Peter Remedios",
+                " Sensuous feel"
+            ],
+            "priority": 5,
+            "propertyLogo": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c472cb402bb9Altira.png",
+            "hotelLogo": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c12616f6cb5dAltira.png",
+            "facilities": [
+                {
+                    "name": "Limousine service",
+                    "description": "EN Limousine drivers pick up clients and drive them to events and destinations such as weddings, meetings, celebrations, hotels and transportation centers. They also help clients load and unload luggage and carry these items into hotels and airports.",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f3b98c101-parking.png",
+                    "priority": 1
+                },
+                {
+                    "name": "Forbes & Michelin restaurants",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f77c5c920-forbesmishelin.png",
+                    "priority": 3
+                },
+                {
+                    "name": "Free self parking",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f62005813-freeparking.png",
+                    "priority": 6
+                },
+                {
+                    "name": "Free shuttle bus",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f6b0a1b16-shuttlebus.png",
+                    "priority": 7
+                },
+                {
+                    "name": "Bar/lounge",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f583cd910-bar.png",
+                    "priority": 9
+                },
+                {
+                    "name": "Spa",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f5b40b811-spa.png",
+                    "priority": 11
+                },
+                {
+                    "name": "Infinity pool",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f5e43ef12-pool.png",
+                    "priority": 12
+                },
+                {
+                    "name": "Fitness center",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f426eac03-finesscenter.png",
+                    "priority": 15
+                },
+                {
+                    "name": "Beauty Salon",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f553fb009-beauty.png",
+                    "priority": 19
+                },
+                {
+                    "name": "Private dining area",
+                    "description": "",
+                    "imageLink": "https://d3vfdn4bycsezi.cloudfront.net/images/hotels/5c93b7f74c37819-restaraunts.png",
+                    "priority": 27
+                }
+            ],
+            "roomTypes": [],
+            "mapId": "",
+            "bookingId": "ALMMO",
+            "minRatePlan": null,
+            "maxRatePlan": null
+        }
+    ]
+}
