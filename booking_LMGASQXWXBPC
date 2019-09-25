@@ -1,0 +1,28 @@
+{
+    "bookingId": "1050066",
+    "bookingReference": "LMGASQXWXBPC",
+    "requestTime": "2019-09-10T11:20:19Z",
+    "passengerInfo": {
+        "name": "DXTIER TEST",
+        "mobile": "85251739908",
+        "email": "ANSONKUNG@MELCO-RESORTS.COM",
+        "passengersNumber": 4
+    },
+    "assignedCarInfo": null,
+    "selectedCarInfo": {
+        "carCategoryId": "1436",
+        "carCategoryName": "Benz",
+        "imageUrl": "https://d3vfdn4bycsezi.cloudfront.net/images/limo/5d6fe9e8206f5benz.png",
+        "seatCapacity": 4,
+        "luggageCapacity": 2
+    },
+    "status": "EN_ROUTE",
+    "pickupAddress": "AIA Tower",
+    "dropoffAddress": "Altira VIP",
+    "pickupLat": 22.189956,
+    "pickupLng": 113.540238,
+    "dropoffLat": 22.161765,
+    "dropoffLng": 113.55508,
+    "pickupTime": "2019-09-10T14:25:17Z",
+    "bookingNotes": "No special request"
+}
