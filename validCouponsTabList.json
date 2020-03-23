@@ -1,6 +1,10 @@
 {
     "coupons": [
         {
+            "ids":[
+                "CouponId1",
+                "CouponId2"
+            ],
             "name": "House of Dancing Waters",
             "category": {
                 "id": "ENTERTAINMENT",
