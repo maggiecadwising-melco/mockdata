@@ -1,0 +1,22 @@
+{
+    "coupons": [
+        {
+            "quantity": 1,
+            "ticketsCount": 2,
+            "name": "The House Of Dancing Water",
+            "eventId": "eventId",
+            "expiryDate": "2021-04-21T21:59:03Z",
+            "ids": [
+                "1",
+                "2"
+            ],
+            "category": {
+                "id": "ENTERTAINMENT",
+                "type": "ENTERTAINMENT",
+                "name": "ENTERTAINMENT"
+            }
+        }
+    ],
+    "massCoupons": [],
+    "directOfferItems": []
+}
